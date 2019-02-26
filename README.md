@@ -1,8 +1,5 @@
 # Processen [SCREENPLAY] :clapper: :movie_camera: :page_with_curl:
 
-![GitHub Logo](/processen_poster.jpg)
-Format: ![Alt Text](url)
-
 ![alt text](processen_poster.jpg)
 
 ## About
