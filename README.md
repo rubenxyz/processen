@@ -1,9 +1,6 @@
 # Processen [SCREENPLAY] :clapper: :movie_camera: :page_with_curl:
 
-![alt text](processen_poster.jpg)
-
-Here is a link to the finished film:
-[https://www.youtube.com/watch?v=kOqCaiW6QCs](https://www.youtube.com/watch?v=kOqCaiW6QCs)
+![alt text](processen_poster.png)
 
 ## About
 This is the repository for the open source screenplay of a short film with the working title *Processen* (The Process).
@@ -11,6 +8,10 @@ This is the repository for the open source screenplay of a short film with the w
 ### Short tagline
 
 The Process is a short film were we follow a legal proceeding were common citizens are confronted with what they wrote on social media long time ago. 
+
+### Watch
+Here is a link to the finished film:
+[https://www.youtube.com/watch?v=kOqCaiW6QCs](https://www.youtube.com/watch?v=kOqCaiW6QCs)
 
 ### Read the script :page_facing_up:
 
