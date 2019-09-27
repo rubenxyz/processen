@@ -18,7 +18,7 @@ Here is a link to the finished film:
 The latest version of the script can be downloaded as an PDF from [here](https://www.dropbox.com/sh/nm2q55o5mxwn9jf/AACaMxhRMDqwZuvTJfEpv1Y0a?dl=0).
 
 ### Project status
-Update: 2019-02-05 - This short film has been produced and premiered at the Göteborg Film Festival on 26th of Februari 2019.
+Update: 09-15-2019 - Processen has been released online. 
 
 ### N00bs :dizzy_face:
 
