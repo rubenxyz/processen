@@ -2,18 +2,11 @@
 
 ![alt text](processen_poster.jpg)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kOqCaiW6QCs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<object width=”550″ height=”343″>
-<param name=”movie” value=”https://www.youtube.com/embed/kOqCaiW6QCs?version=3&amp;fs=1&amp;hl=ru&amp;cc_load_policy=1&amp;rel=0&amp;hd=1″>
-<param name=”allowFullScreen” value=”true”>
-<param name=”allowscriptaccess” value=”always”>
-<embed src=”http://www.youtube.com/v/kTvHIDKLFqc?version=3&amp;fs=1&amp;hl=ru&amp;cc_load_policy=1&amp;rel=0&amp;hd=1″ type=”application/x-shockwave-flash” width=”550″ height=”343″ allowscriptaccess=”always” allowfullscreen=”true”></embed>
+Here is a link to the finished film:
+[https://www.youtube.com/watch?v=kOqCaiW6QCs](https://www.youtube.com/watch?v=kOqCaiW6QCs)
 
 ## About
 This is the repository for the open source screenplay of a short film with the working title *Processen* (The Process).
-
-![alt text](https://github.com/rubensz/prosessen/still.jpg)
 
 ### Short tagline
 
