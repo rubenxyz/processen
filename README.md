@@ -1,6 +1,6 @@
 # Processen [SCREENPLAY] :clapper: :movie_camera: :page_with_curl:
 
-![alt text](processen_poster.png)
+![](processen_poster.png)
 
 ## About
 This is the repository for the open source screenplay of a short film with the working title *Processen* (The Process).
