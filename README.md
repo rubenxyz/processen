@@ -3,13 +3,14 @@
 ![](processen_poster.png)
 
 ## About
-This is the repository for the open source screenplay of a short film with the working title *Processen* (The Process).
+This is the repository for the open source screenplay of a short film *Processen* .
 
-### Short tagline
+(If you're wondering why the heck this screenplay is on Github or you don't know anything about git, repos or fountain – see this [short introduction](http://rubensznajderman.com/fountain-noobs).)
 
+### Short Tagline
 The Process is a short film were we follow a legal proceeding were common citizens are confronted with what they wrote on social media long time ago. 
 
-### Watch
+### Watch The Short
 Here is a link to the finished film:
 [https://www.youtube.com/watch?v=kOqCaiW6QCs](https://www.youtube.com/watch?v=kOqCaiW6QCs)
 
@@ -19,10 +20,6 @@ The latest version of the script can be downloaded as an PDF from [here](https:/
 
 ### Project status
 Update: 09-15-2019 - Processen has been released online. 
-
-### N00bs :dizzy_face:
-
-If you come from filmmaking and don’t know anything about git, repositories, and is wondering what a the heck a screenplay is doing on platform for programmers, feel free to read [this](https://medium.freecodecamp.org/what-is-git-and-how-to-use-it-c341b049ae61).
 
 ### Credits
 
@@ -34,20 +31,6 @@ If you come from filmmaking and don’t know anything about git, repositories, a
 The story and first draft was written by [rubensz](https://github.com/rubensz), who is also maintaining this repository during development, but anybody is welcome to clone the script for the purpose of tinkering, edit, correct, comment, improve and push the “code” back to the repository – just like with open source software.
 
 Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on submitting pull requests to the head writer.
-
-### Versioning
-
-We use [SemVer](http://semver.org/) for versioning as a source of inspiration for best practice. I hope create a versioning scheme for screenplays in the future.
-
-### Prerequisites
-
-##### Fountain Syntax
-
-This script is written in a Fountain which is a plain text markdown language for screenplays. As long as you follow the Fountain Syntax, you can edit the screenplay in any editor for plain text – although software dedicated to Fountain syntax (or one with a plugin for Fountain), gives a superior writing experience. To see some options, see this [link](https://fountain.io/apps).
-
-##### Git
-
-Git is software for version control. Follow [these instructions](https://gist.github.com/derhuerst/1b15ff4652a867391f03) on how to install Git on OS X, Windows and Linux
 
 ### Cloning
 
