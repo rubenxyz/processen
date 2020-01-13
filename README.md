@@ -3,7 +3,7 @@
 ![](processen_poster.png)
 
 ## About
-This is the repository for the open source screenplay of a short film *Processen* .
+This is the repository for the open source screenplay of a short film *Processen* . See storyboards, cast and behind the scenes on project's [website](https://sites.google.com/view/processen/welcome).
 
 (If you're wondering why the heck this screenplay is on Github or you don't know anything about git, repos or fountain – see this [short introduction](http://rubensznajderman.com/fountain-noobs).)
 
